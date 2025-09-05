@@ -16,6 +16,15 @@ This repository contains a simulation framework where multiple LLM-based agents 
 - Create a new token with read permissions
 - Save the token securely
 
+## 🚀 Running in Google Colab
+Important: Make sure to connect to a GPU runtime before running the notebook.
+
+Go to Runtime → Change runtime type
+Select GPU as the Hardware accelerator (T4 or higher recommended)
+Click Save and connect to the runtime
+
+The notebook will handle all installations and setup automatically once you run the cells.
+
 ## 📚 Citation
 If you use this code in your research, please cite:
 ```bibtex
