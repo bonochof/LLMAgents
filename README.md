@@ -40,7 +40,9 @@ If you use this code in your research, please cite:
 ```
 
 ## 📄 License
-This code is provided for research purposes. The use of Llama 2 model is subject to Meta's license agreement. Please ensure compliance with all relevant licenses before use.
+This code is provided for research purposes under the MIT License. Please cite our paper if you use this code.
+
+The use of Llama 2 model is subject to Meta's license agreement. Please ensure compliance with all relevant licenses before use.
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit issues or pull requests.
